@@ -14,7 +14,7 @@ Because the title is inside the head, so it shows on the browser tab.
 
 ## 4. When must you use `<ol>`, and not `<ul>`?
 
-Use <ol> when the list needs to be in order or has steps to follow.
+Use `<ol>` when the list needs to be in order or has steps to follow.
 
 ## 5. Why must an image have useful alt text?
 
