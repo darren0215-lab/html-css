@@ -10,7 +10,7 @@ body
 
 ## 3. Which selector styles an element inside a section or a card?
 
-.feature-card p
+The .lesson-link selector styles the link inside the card.
 
 ## 4. Which selector uses `>`?
 
