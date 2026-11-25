@@ -18,4 +18,4 @@ The .image-panel uses position: relative to set the boundary for the label.
 
 ## 5. What did you do to keep the text easy to read?
 
-I added an almost white background to the .hero-content so the text is easier to read and does not blend into the background image.
+I used font-size: 2.75rem for the main heading and line-height: 1.6 to make the text clearer.
